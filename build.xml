@@ -1,0 +1,7 @@
+<project name="sure01" default="WAR-build" basedir=".">
+	<description>sure01 - Build file</description>
+
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+
+</project>
